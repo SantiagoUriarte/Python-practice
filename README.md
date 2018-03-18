@@ -4,9 +4,9 @@ Some of the programs are old programs I've made in high school or University pro
 
 ## Current Programs
 
-1. MoveInfoGUI.py -created 2016
-   *Python program that utilized the OMD API to give move infromation given a movie title and it's release date. 
+1. MoveInfoGUI.py -created 2016 # 
+   Python program that utilized the OMD API to give move infromation given a movie title and it's release date. 
    
-1. WeatherInfoGUI.py -created 2016
+1. WeatherInfoGUI.py -created 2016 # 
    *Python program that the utilizes OpenWeater API To give weather information based on country/zipcode/city. 
    
