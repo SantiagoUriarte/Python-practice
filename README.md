@@ -5,8 +5,8 @@ A collection of notable python programs I've made to practice and apply my knowl
 ## Current Programs
 
 1. MoveInfoGUI.py -created 2016 <br />
-   Python program that utilized the OMD API to give move infromation given a movie title and it's release date. 
+   *Python program that utilized the OMD API to give move infromation given a movie title and it's release date.* 
    
 1. WeatherInfoGUI.py -created 2016 <br />
-   Python program that the utilizes OpenWeater API To give weather information based on country/zipcode/city. 
+   *Python program that the utilizes OpenWeater API To give weather information based on country/zipcode/city.*
    
